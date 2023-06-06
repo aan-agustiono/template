@@ -1,3 +1,3 @@
-# landing-pg
+# Testing template
 
 tester
